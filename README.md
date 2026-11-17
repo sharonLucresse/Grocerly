@@ -53,7 +53,7 @@ The dashboard includes four main KPIs:
 
 ## 8. Dashboard Preview
 
-![Grocerly Dashboard](dashboard/image/Crocerly_image.png)
+![Grocerly Dashboard](dashboard/images/Crocerly_image.png)
 
 ## 9. Key Insights
 
