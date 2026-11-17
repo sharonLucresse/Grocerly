@@ -59,7 +59,14 @@ The dashboard includes four main KPIs:
 
 The dashboard provides an overview of grocery sales performance and enables users to explore sales distribution across different product categories and characteristics.
 
-*Specific findings will be added based on the analysis of the dashboard.*
+## 9. Key Insights
+
+- **Fat Content:** Low Fat products generate higher sales (approximately $776K) compared to Regular products (approximately $425K).
+- **Top-Selling Categories:** Fruits and Vegetables and Snack Foods are the leading product categories, each generating approximately $180K in sales.
+- **Outlet Size:** Medium-sized outlets achieve the highest sales, with approximately $508K, followed by Small outlets ($445K).
+- **Outlet Location:** Tier 3 locations generate the highest sales (approximately $472K), followed by Tier 2 and Tier 1.
+- **Outlet Performance:** Supermarket Type1 is the leading outlet type, generating approximately $788K in sales.
+- **Outlet Establishment:** Sales peaked around 2018, reaching approximately $205K, before declining in subsequent years.
 
 ## 10. Project Files
 
